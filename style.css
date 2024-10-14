@@ -1,0 +1,288 @@
+#herosection{
+width: 100%;
+height: 600px;
+background-image: url("images/assignmentimage.png");
+background-repeat: no-repeat;
+background-position: right top;
+background-size: 50%;
+}
+
+.header {
+  width: 80%;
+  height: 60px;
+  border-radius: 50px;
+  background-color: white;
+  opacity: 0.9;
+  box-shadow: 0 4px 8px 0px rgb(0,0,0, 0.2);
+  margin: auto;
+  margin-top: 30px;
+}
+
+.nav {
+  float: left;
+  width: 30%;
+  height: 60px;
+  
+}
+
+.logo{
+  margin-top: 14px;
+  margin-left: 100px;
+}
+
+.menu{
+  margin-top: 20px;
+  
+}
+.menu > a {
+  text-decoration: none;
+  color: black;
+  margin-left: 10px;
+}
+
+.headerbutton {
+  margin-top: 15px;
+  background-color: #6E4ACF;
+  padding: 7px;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  margin-left: 150px;
+}
+
+.herobutton {
+  margin-top: 15px;
+  background-color: #6E4ACF;
+  padding: 7px;
+  border: none;
+  border-radius: 4px;
+  color: white;
+}
+
+.herotext {
+  margin-left: 10%;
+  margin-top: 150px;
+  font-size: 20px;
+}
+
+.herotext p {
+  line-height: 25px;
+}
+
+.herotext h1 {
+  font-size: 60px;
+}
+
+span{
+  color: #6E4ACF;
+  font-weight: 60px;
+}
+
+.section2{
+  background-color: #D1C1FF33;
+  height: 630px;
+  width: 100%;
+}
+
+.ourstoryh1{
+text-align: center;
+padding-top: 40px;
+}
+
+.storyimage {
+  width: 80%;
+  height: 500px;
+  display: block;
+  margin: auto auto;
+}
+
+.section3 {
+  background-color: white;
+  height: 400px;
+  width: 100%;
+}
+
+.section3 > h1{
+  text-align: center;
+  padding-top: 20px;
+}
+
+.blockchain {
+  display: inline-block;
+  border: 2px solid #007FFF30;
+  border-radius: 7px;
+  padding: 15px;
+  width: 26%;
+  margin-left: 25px;
+  text-align: center;
+}
+
+.mainblock{
+  width: 80%;
+  height: 50px;
+  margin: auto; 
+}
+
+.foundry {
+  display: inline-block;
+  border: 2px solid #007FFF30;
+  border-radius: 7px;
+  padding: 15px;
+  width: 26%;
+  margin-left: 25px;
+  text-align: center;
+}
+.secondblock{
+  width: 80%;
+  height: 50px;
+  margin: auto; 
+}
+.tokenomics {
+  display: inline-block;
+  border: 2px solid #007FFF30;
+  border-radius: 7px;
+  padding: 15px;
+  width: 26%;
+  margin-left: 25px;
+  text-align: center;
+}
+.thirdblock{
+  width: 80%;
+  height: 50px;
+  margin: auto; 
+}
+
+.lock {
+  margin-bottom: 30px;
+}
+
+.section4{
+  background-color: white;
+  width: 100%;
+  height: 500px;
+}
+
+.section4 h3 {
+  text-align: center;
+  color: #A6A6A6;
+}
+
+.section4 h1 {
+  text-align: center;
+  font-weight: 400px;
+}
+
+.section4 p {
+  text-align: center;
+  color: #A6A6A6;
+  font-size: 23px;
+}
+
+.testimonialimage{
+  height: 100px;
+  width: 100px;
+  margin: auto;
+}
+
+
+.testimonialtext{
+  text-align: center;
+  color: #D9D9D9;
+  margin-bottom: -10px;
+}
+
+.section4 h4 {
+  text-align: center;
+  color: #A6A6A6;
+  font-size: 13px;
+}
+
+.section5{
+  background-color: white;
+  height: 500px;
+  width: 100%;
+  margin-bottom: 300px;
+
+}
+
+.section5 h1{
+  text-align: center;
+}
+
+.section5 p{
+  text-align: center;
+}
+
+.faqtext{
+  width: 60%;
+  height: 50px;
+  margin: auto auto;
+  border-bottom: 1px solid black;
+  padding-bottom: 20px;
+}
+
+.faqh2{
+width: 60%;
+height: 10px;
+float: left;
+margin: auto auto;
+}
+
+.faqsymbol{
+  width: 40%;
+  height: 10px;
+  float: left;
+  margin: auto auto;
+
+}
+
+.faqimage{
+  float: right;
+  margin-top: 20px;
+
+}
+
+.footer{
+  height: 200px;
+  width: 70%;
+  box-shadow: 0 4px 8px 0px rgb(0,0,0, 0.2) ;
+  margin: auto;
+  margin-top: 30px;
+}
+
+.footernav {
+  height: 20px;
+  width: 50%;
+  padding: 20px;
+  margin: auto;
+}
+
+.footernav1 {
+  text-decoration: none;
+  margin-left: 20px;
+  color: black;  
+}
+
+.footericons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  
+}
+
+.footericons a {
+  text-decoration: none;
+  color: #6E4ACF;
+}
+  
+.footerh4{
+  text-align: center;
+
+}
+
+.footerh3{
+  text-align: center;
+  color: #D9D9D9;
+
+}
+
